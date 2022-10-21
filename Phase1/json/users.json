@@ -1,0 +1,22 @@
+{"users":[
+    {
+        "email":"admin00@mail.com",
+        "username":"admin00",
+        "password":"Admin-00",
+        "type":"admin"
+    },
+    {
+        "email":"operator01@mail.com",
+        "username":"opreator01",
+        "password":"Operator-01",
+        "type":"operator"
+    },
+    {
+        "email":"user01@mail.com",
+        "username":"user01",
+        "password":"User-01",
+        "type":"user"
+    }
+]
+
+}
